@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="314da8ee-426f-4ea4-98bf-b1fd8f493985" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/css/admin-first-page.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/css/change_password.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/css/contact.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/css/delete-account.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/css/formular.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/css/home.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/css/kidsFirstPage.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/css/login.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/css/scores.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/css/signUp.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/css/statistics.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/html/add-test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/html/admin-first-page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/html/change-password.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/html/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/html/dbconnect.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/html/delete-account.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/html/formular.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/html/kids-test-page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/html/kids-user-first-page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/html/kids-user-first-page.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/html/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/html/login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/html/notification.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/html/parentsHome.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/html/scores.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/html/signUp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/html/statistics.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/0kQ3aqr.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/1000.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/42913.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/4FPllju-cartoon-network-backgrounds.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/7263.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/83825-200.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/BACKGROUND.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/BACKGROUNDKIDS.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/BACKGROUNDSIGNUP.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/ClearBiologyLogo_0214.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/EYyTUkW.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/FEZ-04-512.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/FaH9Ogm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/Geography-Logo-Text-blue.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/Geography-Logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/Johnny_Bravo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/Mg7STPP.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/Share-on-Facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/Sonic_sonicx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/Trophyicon_1198.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/TwitterShareButton.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/Untitled-1-Recovered.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/bab.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/biology.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/bokeh-lights-night-86084.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/btn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/bublebox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/bugs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/cookie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/dE09LW3-courage-wallpaper.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/daffy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/fb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/feed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/fudd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/google.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/history.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/hminion.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/jarjar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/legal-information-8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/math.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/mickey-mouse-png-33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/minion.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/ofEIJBX.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/patrik.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/patrik2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/pexels-photo-14676.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/pirate.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/raduga_oblaka_fon_74673_3840x2160.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/simpson.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/source.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/sponge2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/sullivan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/testPod.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/twitter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/xA3iuiD.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/yin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/yin_by_lucius4277-d53xsf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/yoda.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/images/yoda.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/javascript/formular.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/javascript/functii.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/javascript/javascript.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/javascript/pagining.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontEnd/javascript/something.js" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="WelcomeController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PL/Controllers/WelcomeController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScoresBLL.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BLL/Implementations/ScoresBLL.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+              <folding>
+                <element signature="e#7#87#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="27" column="90" lean-forward="false" selection-start-line="27" selection-start-column="90" selection-end-line="27" selection-end-column="90" />
+              <folding>
+                <element signature="e#6#86#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DomainsController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PL/Controllers/DomainsController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScoresController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PL/Controllers/ScoresController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PL/Controllers/BaseController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scores.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PL/Interface/html/scores.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1037">
+              <caret line="61" column="42" lean-forward="false" selection-start-line="61" selection-start-column="42" selection-end-line="61" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="table.row.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PL/Interface/templates/tables/table.row.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$conditionArray</find>
+      <find>bind</find>
+      <find>table</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DAL/Contracts/IRandomNamesRepository.php" />
+        <option value="$PROJECT_DIR$/BLL/Contracts/IDomainsBLL.php" />
+        <option value="$PROJECT_DIR$/PL/Interface/html/kids-test-page.html" />
+        <option value="$PROJECT_DIR$/PL/Helpers/Template.php" />
+        <option value="$PROJECT_DIR$/DAL/Contracts/IDomainsRepository.php" />
+        <option value="$PROJECT_DIR$/DAL/Implementations/DomainsRepository.php" />
+        <option value="$PROJECT_DIR$/PL/Interface/domains-list.html" />
+        <option value="$PROJECT_DIR$/PL/Controllers/WelcomeController.php" />
+        <option value="$PROJECT_DIR$/PL/Interface/html/admin-first-page.html" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/PL/Interface/html/login.html" />
+        <option value="$PROJECT_DIR$/DAL/OracleDB.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/PL/Interface/template.tabel.scoruri.html" />
+        <option value="$PROJECT_DIR$/PL/Interface/templates/template.tabel.scoruri.html" />
+        <option value="$PROJECT_DIR$/PL/Interface/templates/tables/table.row.html" />
+        <option value="$PROJECT_DIR$/PL/Controllers/DomainsController.php" />
+        <option value="$PROJECT_DIR$/BLL/Implementations/DomainsBLL.php" />
+        <option value="$PROJECT_DIR$/BLL/Contracts/IScoresBll.php" />
+        <option value="$PROJECT_DIR$/BLL/Implementations/ScoresBLL.php" />
+        <option value="$PROJECT_DIR$/PL/Controllers/BaseController.php" />
+        <option value="$PROJECT_DIR$/PL/Controllers/ScoresController.php" />
+        <option value="$PROJECT_DIR$/PL/Interface/html/scores.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TW" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TW" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Apache24\htdocs\TW\public\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Apache24\htdocs\TW\PL\Interface\templates\tables" />
+      <recent name="C:\Apache24\htdocs\TW\PL\Interface\templates" />
+      <recent name="C:\Apache24\htdocs\TW\public" />
+      <recent name="C:\Apache24\htdocs\TW\PL\Interface" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="314da8ee-426f-4ea4-98bf-b1fd8f493985" name="Default" comment="" />
+      <created>1496431471988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496431471988</updated>
+      <workItem from="1496431473253" duration="16154000" />
+      <workItem from="1496472219035" duration="604000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16758000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PL/Controllers/WelcomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BLL/Implementations/ScoresBLL.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding>
+            <element signature="e#7#87#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="90" lean-forward="false" selection-start-line="27" selection-start-column="90" selection-end-line="27" selection-end-column="90" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PL/Controllers/DomainsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PL/Controllers/ScoresController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PL/Controllers/BaseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PL/Interface/html/scores.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="42" lean-forward="true" selection-start-line="61" selection-start-column="42" selection-end-line="61" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PL/Interface/templates/tables/table.row.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kappa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/html/admin-first-page.html" />
+    <entry file="file://$PROJECT_DIR$/DAL/Contracts/IRandomNamesRepository.php" />
+    <entry file="file://$PROJECT_DIR$/PL/Interface/html/add-test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1726">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PL/Interface/html/kids-test-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="67" lean-forward="true" selection-start-line="31" selection-start-column="67" selection-end-line="31" selection-end-column="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BLL/Contracts/IDomainsBLL.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PL/Helpers/Template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAL/Contracts/IDomainsRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PL/Interface/html/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PL/Interface/domains-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PL/Interface/html/admin-first-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="49" lean-forward="true" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="35" lean-forward="false" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PL/Interface/html/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAL/OracleDB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="85" column="16" lean-forward="false" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/admin-first-page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2525">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="27" column="90" lean-forward="false" selection-start-line="27" selection-start-column="90" selection-end-line="27" selection-end-column="90" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PL/Controllers/WelcomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BLL/Implementations/DomainsBLL.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAL/Implementations/DomainsRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BLL/Contracts/IScoresBll.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PL/Interface/templates/tables/template.tabel.scoruri.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PL/Interface/html/scores.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="42" lean-forward="false" selection-start-line="61" selection-start-column="42" selection-end-line="61" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PL/Interface/templates/tables/table.row.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PL/Controllers/BaseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BLL/Implementations/ScoresBLL.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding>
+            <element signature="e#7#87#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PL/Controllers/DomainsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PL/Controllers/ScoresController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
