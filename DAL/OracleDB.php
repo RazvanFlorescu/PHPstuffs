@@ -34,14 +34,15 @@ class OracleDB
         $stid = oci_parse($this->conn,$query);
 //        $stid = oci_parse($this->conn,"SELECT * FROM TABLE WHERE ID=:ID");
 
+//        print_r($query);print_r($params);exit();
         if(!empty($params)){
             foreach($params as $paramName=>$paramValue){
-                oci_bind_by_name($stid, ":".$paramName, $paramValue); // bind la :id cu valoarea 2
+                oci_bind_by_name($stid, ":".$paramName, $params[$paramName]); // bind la :id cu valoarea 2
             }
         }
         oci_execute($stid);
         $row = oci_fetch_all($stid, $res, null, null, OCI_FETCHSTATEMENT_BY_ROW);
-
+        $res = empty($res)?null:$res;
         return $res;
 //        var_dump($res);
     }

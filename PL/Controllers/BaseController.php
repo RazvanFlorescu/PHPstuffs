@@ -10,15 +10,30 @@ require_once("PL/Helpers/Template.php");
 class BaseController
 {
     private $template;
-    private $cssURL = "localhost:8181/tw/pl/interface/css";
+    private $base_url = "http://localhost:8181/tw/";
     public function __construct()
     {
         $this->template = new Template();
     }
 
+    public function getFromPost($key, $is_int = false){
+        if($is_int)
+            return (int)$_POST[$key];
+        return $_POST[$key];
+    }
+
+    public function getFromGet($key, $is_int = false){
+        if($is_int)
+            return (int)$_GET[$key];
+        return $_GET[$key];
+    }
+
+    public function redirect($url){
+        header("Location: {$this->base_url}{$url}");
+    }
+
     public function renderView($view, $data){
         $this->template->setFile($view);
-        $data['cssURL'] = $this->cssURL;
         $this->template->setParams($data);
         return $this->template->render();
     }

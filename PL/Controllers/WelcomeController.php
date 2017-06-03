@@ -10,6 +10,7 @@ require_once ("BaseController.php");
 class WelcomeController extends BaseController
 {
     public function index(){
+        print_r($_SESSION);
         $this->loadView("html/login");
     }
 }
